@@ -1,0 +1,27 @@
+{
+  "name": "protractortypescript",
+  "version": "1.0.0",
+  "description": "Tools QA Project",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "webdriver-update": "webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Ganesh Hegde",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.3.9",
+    "@types/node": "^11.9.4",
+    "jasmine": "^3.3.1",
+    "protractor": "^5.4.2",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}
